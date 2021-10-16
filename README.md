@@ -1,2 +1,2 @@
 # thechurchofcorn.github.io
-The official website to the Church of Corn
+The official website to the Church of Corn.
