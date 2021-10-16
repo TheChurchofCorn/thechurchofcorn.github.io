@@ -1,4 +1,5 @@
 .nav {
-    display: block;
+    display: inline-block;
     position: fixed;
+    height: 8%;
 }
