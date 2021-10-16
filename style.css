@@ -1,5 +1,23 @@
 .nav {
-    display: inline-block;
-    position: fixed;
+    position: sticky;
     height: 8%;
+    margin: 0px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 200px 10% 200px;
+}
+
+#logo {
+    height: 50px;
+    width: 50px;
+}
+
+#nav-left {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#nav-right {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
